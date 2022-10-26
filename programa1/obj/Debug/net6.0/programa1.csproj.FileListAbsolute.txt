@@ -1,0 +1,15 @@
+D:\PROGRAMACION FER\C#\programa1\bin\Debug\net6.0\programa1.exe
+D:\PROGRAMACION FER\C#\programa1\bin\Debug\net6.0\programa1.deps.json
+D:\PROGRAMACION FER\C#\programa1\bin\Debug\net6.0\programa1.runtimeconfig.json
+D:\PROGRAMACION FER\C#\programa1\bin\Debug\net6.0\programa1.dll
+D:\PROGRAMACION FER\C#\programa1\bin\Debug\net6.0\programa1.pdb
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\programa1.csproj.AssemblyReference.cache
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\programa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\programa1.AssemblyInfoInputs.cache
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\programa1.AssemblyInfo.cs
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\programa1.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\programa1.dll
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\refint\programa1.dll
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\programa1.pdb
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\programa1.genruntimeconfig.cache
+D:\PROGRAMACION FER\C#\programa1\obj\Debug\net6.0\ref\programa1.dll
